@@ -5,7 +5,7 @@
 
 - 🧬 Currently Interning at **NARC (National Agricultural Research Centre)** focusing on [Insert Topic].
 - 💻 Building **Portfolify**, a SaaS platform for automated portfolio generation.
-- [cite_start]🏥 Researching **AI in Healthcare**, specifically CNN-based Alzheimer's detection[cite: 51, 52].
+- 🏥 Researching **AI in Healthcare**, specifically CNN-based Alzheimer's detection[cite: 51, 52].
 - 🛠️ Developed the **COMSATS Bioinformatics Department Database**.
 
 ---
